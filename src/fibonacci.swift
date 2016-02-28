@@ -6,4 +6,4 @@ func fibonacci(i: Int) -> Int {
     }
 }
 
-print(fibonacci(20))
+print(fibonacci(30))
